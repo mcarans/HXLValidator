@@ -1,0 +1,6 @@
+aiodns==1.1.1
+aiohttp==2.3.9
+tqdm
+uvloop==0.9.1
+hdx-python-api
+-e git+git://github.com/HXLStandard/libhxl-python@dev#egg=libhxl-python
